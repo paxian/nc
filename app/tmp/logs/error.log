@@ -1,0 +1,442 @@
+2014-10-12 10:54:32 Error: [MissingActionException] Action DeliveriesController::users() could not be found.
+Exception Attributes: array (
+  'controller' => 'DeliveriesController',
+  'action' => 'users',
+)
+Request URL: /nuevocliente/deliveries/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(DeliveriesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-10-12 11:44:13 Error: Fatal Error (4): syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE) in [C:\xampp\htdocs\nuevocliente\app\Controller\UsersController.php, line 18]
+2014-10-12 11:44:13 Error: [FatalErrorException] syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE)
+Request URL: /nuevocliente/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 11:44:18 Error: Fatal Error (4): syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE) in [C:\xampp\htdocs\nuevocliente\app\Controller\UsersController.php, line 18]
+2014-10-12 11:44:18 Error: [FatalErrorException] syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE)
+Request URL: /nuevocliente/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 12:03:40 Error: Fatal Error (4): syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE) in [C:\xampp\htdocs\nuevocliente\app\Controller\UsersController.php, line 18]
+2014-10-12 12:03:40 Error: [FatalErrorException] syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE)
+Request URL: /nuevocliente/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 12:03:44 Error: Fatal Error (4): syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE) in [C:\xampp\htdocs\nuevocliente\app\Controller\UsersController.php, line 18]
+2014-10-12 12:03:44 Error: [FatalErrorException] syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE)
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 12:11:17 Error: Fatal Error (4): syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE) in [C:\xampp\htdocs\nuevocliente\app\Controller\UsersController.php, line 18]
+2014-10-12 12:11:17 Error: [FatalErrorException] syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE)
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 12:13:07 Error: Fatal Error (4): syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE) in [C:\xampp\htdocs\nuevocliente\app\Controller\UsersController.php, line 18]
+2014-10-12 12:13:07 Error: [FatalErrorException] syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE)
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 12:13:08 Error: Fatal Error (4): syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE) in [C:\xampp\htdocs\nuevocliente\app\Controller\UsersController.php, line 18]
+2014-10-12 12:13:08 Error: [FatalErrorException] syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE)
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 12:13:35 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\nuevocliente\app\Controller\UsersController.php, line 40]
+2014-10-12 12:13:35 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 40, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 40, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 12:15:40 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:15:50 Error: Fatal Error (4): syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE) in [C:\xampp\htdocs\nuevocliente\app\Controller\UsersController.php, line 18]
+2014-10-12 12:15:50 Error: [FatalErrorException] syntax error, unexpected 'name' (T_STRING), expecting variable (T_VARIABLE)
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 18, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 12:17:32 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:17:56 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:18:16 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:18:17 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:18:18 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:18:18 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:18:18 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:21:50 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:23:24 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:23:25 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:23:26 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:23:27 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:24:21 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:24:24 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 12:25:15 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-10-12 12:28:40 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-10-12 12:33:00 Error: [CakeException] Missing field name for FormHelper::created
+Request URL: /nuevocliente/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->__call('created', Array)
+#1 C:\xampp\htdocs\nuevocliente\app\View\Users\login.ctp(5): FormHelper->created()
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(948): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(910): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#4 C:\xampp\htdocs\nuevocliente\lib\Cake\View\View.php(471): View->_render('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nuevocliente\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#6 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#7 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-10-12 13:33:57 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /nuevocliente/img/cake.icon.png
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-12 13:55:16 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\xampp\htdocs\nuevocliente\app\View\Users\index.ctp, line 35]
+2014-10-12 13:55:16 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /nuevocliente/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 13:55:38 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\xampp\htdocs\nuevocliente\app\View\Users\index.ctp, line 35]
+2014-10-12 13:55:38 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /nuevocliente/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 13:55:40 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\xampp\htdocs\nuevocliente\app\View\Users\index.ctp, line 35]
+2014-10-12 13:55:40 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /nuevocliente/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 13:55:41 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\xampp\htdocs\nuevocliente\app\View\Users\index.ctp, line 35]
+2014-10-12 13:55:41 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /nuevocliente/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 13:55:41 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\xampp\htdocs\nuevocliente\app\View\Users\index.ctp, line 35]
+2014-10-12 13:55:41 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /nuevocliente/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 13:55:41 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\xampp\htdocs\nuevocliente\app\View\Users\index.ctp, line 35]
+2014-10-12 13:55:41 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /nuevocliente/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 13:55:41 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\xampp\htdocs\nuevocliente\app\View\Users\index.ctp, line 35]
+2014-10-12 13:55:41 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /nuevocliente/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 13:55:42 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\xampp\htdocs\nuevocliente\app\View\Users\index.ctp, line 35]
+2014-10-12 13:55:42 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /nuevocliente/users
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#2 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#3 C:\xampp\htdocs\nuevocliente\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-12 14:02:40 Error: [MissingActionException] Action UsersController::localhost() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'localhost',
+)
+Request URL: /nuevocliente/users/localhost/nuevocliente/
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-10-12 14:03:01 Error: [MissingActionException] Action UsersController::nuevocliente() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'nuevocliente',
+)
+Request URL: /nuevocliente/users/nuevocliente/
+Stack Trace:
+#0 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\nuevocliente\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\nuevocliente\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
